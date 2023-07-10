@@ -1,0 +1,5 @@
+# Directories starting with "." / "_"
+/[._]*/
+
+# Terraform state backup
+/terraform.tfstate.backup
